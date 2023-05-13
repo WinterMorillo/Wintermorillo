@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WinterMorillo
-- 👀 I’m interested in Data Analayst and Programming 
-- 🌱 I’m currently learning Web Development, Pythong and JavaScript
+- 👀 I’m interested in Data Analaysis and Programming 
+- 🌱 I’m currently Pythong
 - 💞️ I’m looking to collaborate on any project I could be of help
 - 📫 If you want to reach me out this is my email (wintermorillo@hotmail.com)
 
